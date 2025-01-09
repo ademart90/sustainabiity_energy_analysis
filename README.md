@@ -14,7 +14,7 @@ I created a dummy data for the year 2023 for my analysis with fetaures such as;
 - Energy_Efficiency: Units produced per total energy usage.
 - Waste_to_Recycling_Ratio: Ratio of waste recycled to waste generated.
 - Emissions_per_Unit: Emissions per unit of production.
-- 
+  
 These ae thee list of tasks i perormed to achieve the overall sustainability metrics goal
 - Descriptive Analysis: i generated averages and summaries of each features 
 - Correlation Analysis: Assess relationships between variables
