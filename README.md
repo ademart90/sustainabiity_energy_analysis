@@ -23,3 +23,4 @@ These are the list of tasks i perormed to achieve the overall sustainability met
 - Comparative Analysis: Identified differences across data segment like thewaste types 
 - Scenario Analysis: Simulated hypothetical changes by adjusting weights of effieciency metrics
 - Dashboard Visualization: Created  visuals for monitoring sustainability  goals.
+  this is the link to the interactive streamlit dashboard https://dashboardpy-9sj3s4pjwndxbkwbr9upvw.streamlit.app/ 
